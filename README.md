@@ -1,4 +1,5 @@
-# bottie
+## Code Management Bot, able to manage your entire Infrastructure from Slack
+
 ##Simple BotKit bot with NLP
 
 ###*Original blog post avaliable on Andrew Templeton's blog:* 
